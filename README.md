@@ -1,5 +1,7 @@
 # SwiftPOS - Point of Sale System
 
+**Current version: v1.0.0**
+
 A comprehensive point of sale solution designed for modern businesses. Manage inventory, process sales, track expenses, and generate reports — all from a single system.
 
 ## Features
@@ -99,3 +101,7 @@ SwiftPOS is proprietary software. This distribution is provided for evaluation a
 - **Enterprise License:** Priority support + custom modules
 
 Contact support for licensing inquiries.
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for release history.
