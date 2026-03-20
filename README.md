@@ -1,6 +1,6 @@
 # SwiftPOS - Point of Sale System
 
-**Current version: v1.0.0**
+**Current version: v1.1.0**
 
 A comprehensive point of sale solution designed for modern businesses. Manage inventory, process sales, track expenses, and generate reports — all from a single system.
 
@@ -96,9 +96,9 @@ Environment variables can be set in `docker-compose.yml`:
 
 SwiftPOS is proprietary software. This distribution is provided for evaluation and testing purposes.
 
-- **Free Trial:** 30 days with core features
-- **Pro License:** Full feature access
-- **Enterprise License:** Priority support + custom modules
+- **Free Trial:** 30 days with core POS features (1 admin)
+- **Pro License:** Expenses, safes, damages, refunds, backup, fast stock-in, expiry management (1 admin + 2 cashiers)
+- **Enterprise License:** Everything in Pro + customers, promotions, employees, agents, digital payments, offline mode, forecasting, pre-orders, thermal printing, WhatsApp receipts (unlimited users)
 
 Contact support for licensing inquiries.
 
